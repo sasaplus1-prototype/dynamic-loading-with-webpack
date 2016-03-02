@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "webpack",
+    "webpack": "webpack --colors --display-error-details --progress"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "webpack": "^1.12.14"
+  }
+}
